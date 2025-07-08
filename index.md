@@ -6,7 +6,6 @@
 
 &nbsp; <meta charset="UTF-8">
 
-&nbsp; <title>my personal resume</title>
 
 </head>
 
