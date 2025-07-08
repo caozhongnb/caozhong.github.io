@@ -1,6 +1,26 @@
-name：CAO ZHONG  
+<!DOCTYPE html>
 
-email：2024210943@my.swjtu.edu.cn
+<html>
+
+<head>
+
+&nbsp; <meta charset="UTF-8">
+
+&nbsp; <title>my personal resume</title>
+
+</head>
+
+<body>
+
+&nbsp; <h1>Hello，I am CaoZhong</h1>
+
+&nbsp; <h2>Email</h2>
+
+&nbsp; <p>2024210943@my.swjt.edu.cn</p>
+
+</body>
+
+</html>
 
 
 
